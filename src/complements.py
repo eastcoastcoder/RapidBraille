@@ -13,7 +13,7 @@ def nineComplement(minuend, subtrahend):
     question = ''
     for x in range(len(str(subtrahend))):   
         nineComp += '9'
-    for x in range(len(str(subtrahend))):   
+    for x in range(len(str(minuend))):   
         question += '?'
         
     print (" ",minuend,"\n-", subtrahend,"\n=",question) 
