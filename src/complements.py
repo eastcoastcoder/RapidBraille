@@ -1,5 +1,5 @@
 '''
-Subtraction without carrying
+Subtraction without borrowing
 Adopted from Charles Petzold's novel Code
 Ch 13
 
